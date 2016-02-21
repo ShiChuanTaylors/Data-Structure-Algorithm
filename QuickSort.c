@@ -1,3 +1,8 @@
+/* Data Structure and Algorithm - Quick Sort
+ * Created by Ting Shi Chuan, Software Engineering Student
+ * Taylor's University
+ */
+
 #include <stdio.h>
 #define MAX_SIZE 10
 

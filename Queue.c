@@ -1,3 +1,7 @@
+/* Data Structure and Algorithm - Queue
+ * Created by Ting Shi Chuan, Software Engineering Student
+ * Taylor's University
+ */
 #include <stdio.h>
 
 typedef struct Element

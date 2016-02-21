@@ -1,3 +1,8 @@
+/* Data Structure and Algorithm - Tree
+ * Created by Ting Shi Chuan, Software Engineering Student
+ * Taylor's University
+ */
+
 #include <stdio.h>
 #include<math.h>
 
